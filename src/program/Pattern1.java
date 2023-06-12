@@ -6,5 +6,7 @@ public static void main(String[] args) {
 	{
 		System.out.print((char)(i+65));
 	}
+	System.out.println("hellooooooo.....");
+	System.out.println("hello India");
 }
 }
